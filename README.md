@@ -1,9 +1,10 @@
-👋 Hello! I'm Nitin, a seasoned DevOps engineer with over 3 years of hands-on experience in various DevOps technologies. My passion lies in building robust and scalable infrastructure solutions that drive efficiency and innovation.
+👋 Hello! I'm Nitin, a seasoned DevOps engineer with over 4 years of hands-on experience in various DevOps technologies. My passion lies in building robust and scalable infrastructure solutions that drive efficiency and innovation.
 
 💻 I specialize in a wide range of tools and platforms, including:
 
+- Linux Admin
 - Docker 🐳
-- Jenkins ☁️
+- Github-Actions ☁️
 - GitLab 🛠️
 - Python 🐍
 - Kubernetes 🚀
@@ -14,6 +15,7 @@
 - Azure DevOps 🛠️
 - Azure Spring Cloud 🌱
 - Azure API Management 🚀
+  
 
 🔧 With a strong foundation in these technologies, I thrive in creating automated deployment pipelines, optimizing cloud infrastructure, and implementing scalable solutions that streamline development processes.
 
